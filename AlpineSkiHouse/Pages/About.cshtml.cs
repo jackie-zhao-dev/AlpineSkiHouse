@@ -12,7 +12,7 @@ namespace AlpineSkiHouse.Pages
 
         public void OnGet()
         {
-            Message = "Alpine Ski House is the premier ski hill in Northeast.";
+            Message = "Alpine Ski House Version 2.";
         }
     }
 }
